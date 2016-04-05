@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./qhoratiusflaccu02orelgoog_0430.png"; bbox 0 0 713 1204; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 277 88 416 101">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 277 88 416 101">
+     <span class='ocr_line' id='line_1_1' title="bbox 277 88 416 101; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 277 88 310 101; x_wconf 71' lang='lat' dir='ltr'><strong>Lm.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 321 88 345 101; x_wconf 84' lang='grc' dir='ltr'>ΙΙΙ,</span> <span class='ocrx_word' id='word_1_3' title='bbox 365 88 380 101; x_wconf 76' lang='lat' dir='ltr'><strong>G.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 391 88 416 101; x_wconf 78' lang='lat'><strong>¹1.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 132 128 430 181">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 132 128 430 181">
+     <span class='ocr_line' id='line_1_2' title="bbox 132 128 430 151; baseline 0 -6"><span class='ocrx_word' id='word_1_5' title='bbox 132 128 207 151; x_wconf 69' lang='lat' dir='ltr'><strong>Spiritus</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 218 129 262 145; x_wconf 66' lang='lat' dir='ltr'>teter</span> <span class='ocrx_word' id='word_1_7' title='bbox 273 129 363 150; x_wconf 61' lang='lat' dir='ltr'>saniesque</span> <span class='ocrx_word' id='word_1_8' title='bbox 374 130 430 145; x_wconf 72' lang='lat' dir='ltr'>manet</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 175 158 303 181; baseline 0 -6"><span class='ocrx_word' id='word_1_9' title='bbox 175 158 211 176; x_wconf 76' lang='lat' dir='ltr'><strong>Ore</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 222 159 303 181; x_wconf 67' lang='lat' dir='ltr'><strong>trilingui.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 132 202 429 225">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 132 202 429 225">
+     <span class='ocr_line' id='line_1_4' title="bbox 132 202 429 225; baseline -0.003 -5"><span class='ocrx_word' id='word_1_11' title='bbox 132 203 177 224; x_wconf 71' lang='lat' dir='ltr'><strong>Quin</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 188 204 205 220; x_wconf 76' lang='lat' dir='ltr'><strong>et</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 217 203 266 220; x_wconf 69' lang='lat' dir='ltr'>Ixion</span> <span class='ocrx_word' id='word_1_14' title='bbox 277 202 371 225; x_wconf 65' lang='lat' dir='ltr'><strong>Tityosque</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 382 203 429 220; x_wconf 79' lang='lat' dir='ltr'><strong>voltu</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 132 233 447 243">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 132 233 447 243">
+     <span class='ocr_line' id='line_1_5' title="bbox 132 233 447 243; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 132 234 176 243; x_wconf 66' lang='grc' dir='ltr'>ιιι-ιι</span> <span class='ocrx_word' id='word_1_17' title='bbox 188 234 241 243; x_wconf 58' lang='lat' dir='ltr'><strong>uma».</strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 262 233 309 243; x_wconf 51' lang='lat' dir='ltr'><strong>mnu</strong></span> <span class='ocrx_word' id='word_1_19' title='bbox 320 238 362 243; x_wconf 77' lang='lat'><em>.....-</em></span> <span class='ocrx_word' id='word_1_20' title='bbox 374 234 447 243; x_wconf 52' lang='grc' dir='ltr'>...ῃ-ιι..-</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

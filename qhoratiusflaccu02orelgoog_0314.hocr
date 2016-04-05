@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./qhoratiusflaccu02orelgoog_0314.png"; bbox 0 0 713 1204; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 275 79 416 93">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 275 79 416 93">
+     <span class='ocr_line' id='line_1_1' title="bbox 275 79 416 93; baseline 0.007 -1"><span class='ocrx_word' id='word_1_1' title='bbox 275 79 308 92; x_wconf 70' lang='grc' dir='ltr'>ΙΔΙ.</span> <span class='ocrx_word' id='word_1_2' title='bbox 318 80 336 92; x_wconf 88' lang='grc' dir='ltr'>ΙΙ.</span> <span class='ocrx_word' id='word_1_3' title='bbox 355 80 370 93; x_wconf 76' lang='lat'>12.</span> <span class='ocrx_word' id='word_1_4' title='bbox 380 80 416 93; x_wconf 72' lang='lat' dir='ltr'>XV!-</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 143 118 472 197">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 143 118 472 197">
+     <span class='ocr_line' id='line_1_2' title="bbox 144 118 426 137; baseline 0.004 -2"><span class='ocrx_word' id='word_1_5' title='bbox 144 118 203 135; x_wconf 62' lang='lat' dir='ltr'>ouem</span> <span class='ocrx_word' id='word_1_6' title='bbox 214 123 273 136; x_wconf 76' lang='lat' dir='ltr'>eur-re</span> <span class='ocrx_word' id='word_1_7' title='bbox 284 120 301 136; x_wconf 69' lang='grc' dir='ltr'>εί</span> <span class='ocrx_word' id='word_1_8' title='bbox 312 124 370 136; x_wconf 67' lang='lat' dir='ltr'>amn</span> <span class='ocrx_word' id='word_1_9' title='bbox 381 120 426 137; x_wconf 71' lang='lat' dir='ltr'>lenm</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 143 149 472 170; baseline 0.009 -5"><span class='ocrx_word' id='word_1_10' title='bbox 143 149 232 170; x_wconf 68' lang='lat' dir='ltr'>&#39;temperet</span> <span class='ocrx_word' id='word_1_11' title='bbox 243 150 283 166; x_wconf 69' lang='lat' dir='ltr'>rien.</span> <span class='ocrx_word' id='word_1_12' title='bbox 303 149 348 167; x_wconf 68' lang='lat' dir='ltr'>NH!</span> <span class='ocrx_word' id='word_1_13' title='bbox 359 151 386 168; x_wconf 61' lang='lat' dir='ltr'>ut</span> <span class='ocrx_word' id='word_1_14' title='bbox 396 150 418 168; x_wconf 61' lang='lat' dir='ltr'>ub</span> <span class='ocrx_word' id='word_1_15' title='bbox 428 151 472 168; x_wconf 73' lang='lat' dir='ltr'>o-n!</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 207 179 341 197; baseline 0.007 -1"><span class='ocrx_word' id='word_1_16' title='bbox 207 179 258 196; x_wconf 63' lang='lat' dir='ltr'>rme</span> <span class='ocrx_word' id='word_1_17' title='bbox 269 180 341 197; x_wconf 65' lang='lat' dir='ltr'>boatum.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 143 219 495 241">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 143 219 495 241">
+     <span class='ocr_line' id='line_1_5' title="bbox 143 219 495 241; baseline 0.009 -6"><span class='ocrx_word' id='word_1_18' title='bbox 143 219 219 236; x_wconf 62' lang='lat' dir='ltr'><strong>Annum</strong></span> <span class='ocrx_word' id='word_1_19' title='bbox 230 219 292 236; x_wconf 74' lang='lat' dir='ltr'>clarum</span> <span class='ocrx_word' id='word_1_20' title='bbox 303 220 337 236; x_wconf 71' lang='lat' dir='ltr'>estu</span> <span class='ocrx_word' id='word_1_21' title='bbox 348 225 393 237; x_wconf 73' lang='lat' dir='ltr'>mors</span> <span class='ocrx_word' id='word_1_22' title='bbox 404 221 495 241; x_wconf 71' lang='lat' dir='ltr'>Achillem,</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

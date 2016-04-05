@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./qhoratiusflaccu02orelgoog_0298.png"; bbox 0 0 713 1204; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 272 77 620 96">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 272 77 620 96">
+     <span class='ocr_line' id='line_1_1' title="bbox 272 77 620 96; baseline -0.003 -6"><span class='ocrx_word' id='word_1_1' title='bbox 272 77 305 90; x_wconf 80' lang='grc' dir='ltr'><strong>ω.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 315 77 334 91; x_wconf 75' lang='grc' dir='ltr'><strong>ιι.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 352 77 367 90; x_wconf 83' lang='lat' dir='ltr'><strong>c.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 377 77 415 90; x_wconf 78' lang='lat' dir='ltr'><strong>xm.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 579 77 620 96; x_wconf 59' lang='grc' dir='ltr'><strong>οη</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 162 117 618 170">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 162 117 618 170">
+     <span class='ocr_line' id='line_1_2' title="bbox 162 117 618 138; baseline -0.004 -4"><span class='ocrx_word' id='word_1_6' title='bbox 162 117 218 134; x_wconf 66' lang='lat' dir='ltr'>Aures</span> <span class='ocrx_word' id='word_1_7' title='bbox 229 118 247 134; x_wconf 77' lang='lat' dir='ltr'><strong>et</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 258 117 315 133; x_wconf 72' lang='lat' dir='ltr'>umora</span> <span class='ocrx_word' id='word_1_9' title='bbox 326 117 392 138; x_wconf 62' lang='lat' dir='ltr'><strong>mpllffi</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 423 120 426 124; x_wconf 78' lang='grc'><em>·</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 598 117 618 132; x_wconf 78' lang='lat'><strong>³5</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 183 145 492 170; baseline 0.003 -6"><span class='ocrx_word' id='word_1_12' title='bbox 183 147 292 164; x_wconf 67' lang='lat' dir='ltr'><strong>numentana»</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 302 148 402 167; x_wconf 62' lang='lat' dir='ltr'><strong>tentamur</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 411 145 492 170; x_wconf 63' lang='lat' dir='ltr'><strong>ungnes?</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 141 191 516 213">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 141 191 516 213">
+     <span class='ocr_line' id='line_1_4' title="bbox 141 191 516 213; baseline 0 -5"><span class='ocrx_word' id='word_1_15' title='bbox 141 191 185 213; x_wconf 65' lang='lat' dir='ltr'><strong>Quin</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 196 193 213 208; x_wconf 67' lang='lat' dir='ltr'><strong>et</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 224 191 334 208; x_wconf 74' lang='lat' dir='ltr'>Prometheus</span> <span class='ocrx_word' id='word_1_18' title='bbox 345 192 362 208; x_wconf 76' lang='lat' dir='ltr'><strong>et</strong></span> <span class='ocrx_word' id='word_1_19' title='bbox 374 191 442 213; x_wconf 68' lang='lat' dir='ltr'>wemma</span> <span class='ocrx_word' id='word_1_20' title='bbox 453 196 516 213; x_wconf 71' lang='lat' dir='ltr'>parem</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

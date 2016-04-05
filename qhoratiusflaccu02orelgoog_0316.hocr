@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./qhoratiusflaccu02orelgoog_0316.png"; bbox 0 0 713 1204; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 278 90 421 102">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 278 90 421 102">
+     <span class='ocr_line' id='line_1_1' title="bbox 278 90 421 102; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 278 90 311 102; x_wconf 71' lang='lat' dir='ltr'>UD.</span> <span class='ocrx_word' id='word_1_2' title='bbox 321 90 339 102; x_wconf 86' lang='grc' dir='ltr'>ΙΙ.</span> <span class='ocrx_word' id='word_1_3' title='bbox 360 90 375 102; x_wconf 65' lang='grc' dir='ltr'>(ἲ.</span> <span class='ocrx_word' id='word_1_4' title='bbox 386 90 421 102; x_wconf 74' lang='lat' dir='ltr'>XV!-</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 139 129 508 213">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 139 129 508 213">
+     <span class='ocr_line' id='line_1_2' title="bbox 140 129 482 151; baseline 0 -5"><span class='ocrx_word' id='word_1_5' title='bbox 140 131 218 147; x_wconf 70' lang='lat' dir='ltr'>Vestinum</span> <span class='ocrx_word' id='word_1_6' title='bbox 230 130 287 146; x_wconf 70' lang='lat' dir='ltr'>lanae:</span> <span class='ocrx_word' id='word_1_7' title='bbox 299 129 337 146; x_wconf 76' lang='grc' dir='ltr'>ιιιΙΙιὶ</span> <span class='ocrx_word' id='word_1_8' title='bbox 350 134 403 151; x_wconf 68' lang='lat' dir='ltr'><strong>parv·</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 413 134 453 146; x_wconf 75' lang='lat' dir='ltr'>nuru</span> <span class='ocrx_word' id='word_1_10' title='bbox 464 130 482 146; x_wconf 68' lang='lat' dir='ltr'>et</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 139 160 466 182; baseline -0.003 -5"><span class='ocrx_word' id='word_1_11' title='bbox 139 160 220 182; x_wconf 70' lang='lat' dir='ltr'>Spu-imm</span> <span class='ocrx_word' id='word_1_12' title='bbox 231 160 294 177; x_wconf 70' lang='lat' dir='ltr'><strong>Gulae</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 305 162 371 176; x_wconf 72' lang='lat' dir='ltr'>tenuem</span> <span class='ocrx_word' id='word_1_14' title='bbox 382 160 466 177; x_wconf 71' lang='lat' dir='ltr'>emer-ne</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 140 190 508 213; baseline -0.005 -5"><span class='ocrx_word' id='word_1_15' title='bbox 140 191 194 208; x_wconf 67' lang='lat' dir='ltr'><strong>Parca</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 205 196 238 207; x_wconf 75' lang='lat' dir='ltr'>non</span> <span class='ocrx_word' id='word_1_17' title='bbox 250 190 321 207; x_wconf 69' lang='lat' dir='ltr'>mendax</span> <span class='ocrx_word' id='word_1_18' title='bbox 332 190 379 207; x_wconf 74' lang='lat' dir='ltr'>dedu</span> <span class='ocrx_word' id='word_1_19' title='bbox 390 192 407 207; x_wconf 74' lang='lat' dir='ltr'>et</span> <span class='ocrx_word' id='word_1_20' title='bbox 418 190 508 213; x_wconf 70' lang='lat' dir='ltr'>malignum</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

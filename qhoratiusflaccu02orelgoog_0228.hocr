@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./qhoratiusflaccu02orelgoog_0228.png"; bbox 0 0 713 1204; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 284 102 609 123">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 284 102 609 123">
+     <span class='ocr_line' id='line_1_1' title="bbox 284 102 609 123; baseline 0.003 -8"><span class='ocrx_word' id='word_1_1' title='bbox 284 102 317 115; x_wconf 76' lang='lat' dir='ltr'><strong>un.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 328 103 346 115; x_wconf 89' lang='lat'><strong>11.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 366 104 380 116; x_wconf 81' lang='lat' dir='ltr'><strong>e.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 393 104 403 116; x_wconf 87' lang='grc' dir='ltr'><strong>ι.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 571 105 609 123; x_wconf 72' lang='lat'><strong>21¹</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 173 131 451 181">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 173 131 451 181">
+     <span class='ocr_line' id='line_1_2' title="bbox 173 131 420 165; baseline 0.008 -7"><span class='ocrx_word' id='word_1_6' title='bbox 173 131 241 158; x_wconf 59' lang='lat' dir='ltr'>Tefiure</span> <span class='ocrx_word' id='word_1_7' title='bbox 248 138 334 159; x_wconf 67' lang='lat' dir='ltr'>&#39;victorum</span> <span class='ocrx_word' id='word_1_8' title='bbox 347 143 420 165; x_wconf 70' lang='lat' dir='ltr'><strong>ne&#39;potes</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 195 166 451 181; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 195 171 209 181; x_wconf 65' lang='grc' dir='ltr'>ι</span> <span class='ocrx_word' id='word_1_10' title='bbox 213 173 268 181; x_wconf 49' lang='grc' dir='ltr'><strong>..μη-ι.</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 273 166 337 181; x_wconf 46' lang='grc' dir='ltr'><strong>[μὲ-,μ</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 341 179 348 181; x_wconf 90' lang='grc'>.</span> <span class='ocrx_word' id='word_1_13' title='bbox 360 170 440 181; x_wconf 41' lang='lat' dir='ltr'><strong>uas-„b</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 445 179 451 181; x_wconf 87' lang='lat'>.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
